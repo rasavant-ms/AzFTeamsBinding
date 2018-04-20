@@ -1,0 +1,6 @@
+C:\Users\rasavant\Documents\Repos\AzFTeamsBinding\TeamsBinding\TeamsBinding\bin\Debug\netstandard2.0\TeamsBinding.deps.json
+C:\Users\rasavant\Documents\Repos\AzFTeamsBinding\TeamsBinding\TeamsBinding\bin\Debug\netstandard2.0\TeamsBinding.dll
+C:\Users\rasavant\Documents\Repos\AzFTeamsBinding\TeamsBinding\TeamsBinding\obj\Debug\netstandard2.0\TeamsBinding.csprojResolveAssemblyReference.cache
+C:\Users\rasavant\Documents\Repos\AzFTeamsBinding\TeamsBinding\TeamsBinding\obj\Debug\netstandard2.0\TeamsBinding.csproj.CoreCompileInputs.cache
+C:\Users\rasavant\Documents\Repos\AzFTeamsBinding\TeamsBinding\TeamsBinding\obj\Debug\netstandard2.0\TeamsBinding.AssemblyInfoInputs.cache
+C:\Users\rasavant\Documents\Repos\AzFTeamsBinding\TeamsBinding\TeamsBinding\obj\Debug\netstandard2.0\TeamsBinding.AssemblyInfo.cs
